@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/isabel-chong-78b247169/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/IsabelChong)
 
 <!--
 **IsabelChong/IsabelChong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
