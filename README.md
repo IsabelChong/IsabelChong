@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Isabel!
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/isabel-chong-78b247169/)
 &nbsp;
