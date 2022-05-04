@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Isabel!
 <p> Fun fact: I was previously majoring in Biomedical Engineering, but chose to jump ship to take up programming instead as it's so fun! </p>
-<p> Do stay 🤲🏻, follow 💞, and look 🫣 at what I can create throughout my journey 🕹 🖥.</p>
-<p> <i>psst</i> I'm currently learning how to build web applications and learning HTML.</p>
+<p> Do stay 🤲🏻, follow 💞, and look 🫣 at what I can create throughout my journey.</p>
+<p> <i>psst</i> I'm currently learning how to build web applications and learning HTML 🕹 🖥.</p>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/isabel-chong-78b247169/)
 &nbsp;
