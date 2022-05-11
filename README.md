@@ -7,8 +7,8 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/isabel-chong-78b247169/)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/IsabelChong)
-(https://sites.google.com/view/isabelchong/home)
 
+<p><a href="https://sites.google.com/view/isabelchong/home"> Chekout my personal site here! </a><p>
 <!--
 **IsabelChong/IsabelChong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
