@@ -2,7 +2,7 @@
 <p> I'm a Year 1 Computer Science undergraduate studying at the National University of Singapore (NUS)!.
 <p> Fun fact: I was previously majoring in Biomedical Engineering, but chose to jump ship to take up programming instead as it's so fun! </p>
 <p> Do stay 🤲🏻, follow 💞, and look 🫣 at what I can create throughout my journey.</p>
-<p> <i>psst</i> I'm currently learning HTML and CSS 🕹 🖥.</p>
+<p> <i>psst</i> I'm currently learning Unity 🕹 🖥.</p>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/isabel-chong-78b247169/)
 &nbsp;
