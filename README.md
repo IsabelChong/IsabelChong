@@ -6,7 +6,7 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/isabel-chong-78b247169/)
 &nbsp;
-** [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/IsabelChong)
+//[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/IsabelChong)
 
 **<p><a href="https://sites.google.com/view/isabelchong/home"> Chekout my personal site here! </a><p>
 <!--
