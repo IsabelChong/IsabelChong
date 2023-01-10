@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Isabel! 
 <p> I'm a Year 2 Computer Science undergraduate studying at the National University of Singapore (NUS)!.
-<p> Fun fact: I was previously majoring in Biomedical Engineering during my polytechnic days, but chose to take up programming in uni instead as it's so fun! </p>
+<p> Fun fact: I was previously majoring in Biomedical Engineering during my polytechnic days, but chose to take up programming in uni as I found it so fascinating to create solutions just with a laptop in my room! </p>
 <p> Do stay 🤲🏻, follow 💞, and look 🫣 at what I can create throughout my journey.</p>
 <p> <i>psst</i> I'm currently learning Java 🖥.</p>
 
