@@ -11,6 +11,14 @@
 - Do stay 🤲🏻, follow 💞, and look 🫣 at what I can create throughout my journey.
 - **Fun fact:** I was previously majoring in Biomedical Engineering 💉 during my polytechnic days, but chose to take up programming in uni as I found it so fascinating to create solutions just with a laptop in my room 💻!
 
+---
+ <h2 align="center">Tools & Technologies ⚡</h2>
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,html,c,css,python,aws,gcp,idea,postgres,raspberrypi,flutter&perline=6" />
+  </a>
+</p>
+
 ___
 <h2 align="center">Let's Connect<img src="https://gist.github.com/haldaranup/f89330e95dfca979a5bc9fd80602761f/raw/8a3d00dfc3aa37c26873bb154227e395ef77cdfa/handshake.gif" height="32px"> </h2>
  <p align="center">
