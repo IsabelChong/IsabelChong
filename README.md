@@ -15,7 +15,7 @@
  <h2 align="center">Tools & Technologies ⚡</h2>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,c,css,python,aws,gcp,idea,postgres,raspberrypi,flutter&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,html,c,css,python,postgres,aws,gcp,idea,raspberrypi,flutter&perline=6" />
   </a>
 </p>
 
