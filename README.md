@@ -6,7 +6,7 @@
 ## 🍒 About Me 🍒
 
 - A Computer Science Sophomore 👾 at the National University of Singapore (NUS) 🇸🇬!
-- Planning to specialize in  **Database Systems 💽** and **Front-End Development 👩🏻‍💻**
+- Planning to specialize in  _**Database Systems 💽**_ and _**Front-End Development 👩🏻‍💻**_
 - Always trying and **exploring** new stuff 🧐
 - Do stay 🤲🏻, follow 💞, and look 🫣 at what I can create throughout my journey.
 
