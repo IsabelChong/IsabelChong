@@ -1,24 +1,27 @@
 
 <!-- **IsabelChong/IsabelChong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## Hey <img src="https://gist.github.com/haldaranup/aad23918f5ad8bff5199094c9f6d337a/raw/a19b90e65fcffa0eabd3874b66520b91ee9f0e60/hi.gif" width="29">, I'm [Isabel]([https://anuphaldar.com/](https://www.linkedin.com/in/isabel-chong-78b247169/))
+## Hi there <img src="https://gist.github.com/haldaranup/aad23918f5ad8bff5199094c9f6d337a/raw/a19b90e65fcffa0eabd3874b66520b91ee9f0e60/hi.gif" width="29">, I'm Isabel
 
-## 🍒 About Me 🍒
-
-- A Computer Science Sophomore 👾 at the National University of Singapore (NUS) 🇸🇬!
-- Planning to specialize in  _**Database Systems 💽**_ and _**Front-End Development 👩🏻‍💻**_
-- Always trying and **exploring** new stuff 🧐
-- Do stay 🤲🏻, follow 💞, and look 🫣 at what I can create throughout my journey.
+- 👩🏻‍💻 A Computer Science Sophomore at the National University of Singapore (NUS)
+- ✨ Interests in _**Database Systems**_ and _**Front-End Development**_
+- 🧭 Currently taking a Front End Development Course offered by Meta
 
 ---
- <h2 align="center">Languages & Frameworks 🔐</h2>
+
+- 🧶 A programmer in the day, a crocheter at night 
+- 🍒 Owner of BerryLovelyMade, a small business selling handmade goods
+
+---
+
+ <h2 align="center">Languages & Frameworks</h2>
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,html,c,css,python,postgres" />
   </a>
 </p>
 
-<h2 align="center">Technologies 💻</h2>
+<h2 align="center">Technologies</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp,idea,vscode,raspberrypi&perline=6" />
@@ -27,7 +30,7 @@
 
 
 ___
-<h2 align="center">Let's Connect<img src="https://gist.github.com/haldaranup/f89330e95dfca979a5bc9fd80602761f/raw/8a3d00dfc3aa37c26873bb154227e395ef77cdfa/handshake.gif" height="32px"> </h2>
+<h2 align="center">✨ Let's Connect ✨</h2>
  <p align="center">
   <a href="https://www.linkedin.com/in/isabel-chong-78b247169/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
