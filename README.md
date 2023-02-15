@@ -41,6 +41,9 @@ ___
   <a href="https://www.instagram.com/berrylovelymade">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+ <a href="https://t.me/isabelyj">
+    <img src="https://skillicons.dev/icons?i=tele" />
+  </a>
 </p>
 
 <!-- <p align="center">
