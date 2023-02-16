@@ -10,7 +10,7 @@
 ---
 
 - 🧶 A programmer in the day, a crocheter at night 
-- 🍒 Owner of BerryLovelyMade, a small business selling handmade goods
+- 🍒 Owner of BerryLovelyMade, a small business offering handmade goods
 
 ---
 
