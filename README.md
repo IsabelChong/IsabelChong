@@ -24,7 +24,7 @@
 <h2 align="center">Technologies</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,idea,vscode,raspberrypi&perline=6" />
+    <img src="https://skillicons.dev/icons?i=github,aws,gcp,idea,vscode,raspberrypi&perline=6" />
   </a>
 </p>
 
