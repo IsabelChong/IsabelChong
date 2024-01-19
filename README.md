@@ -3,9 +3,8 @@
 
 ## Hi there <img src="https://gist.github.com/haldaranup/aad23918f5ad8bff5199094c9f6d337a/raw/a19b90e65fcffa0eabd3874b66520b91ee9f0e60/hi.gif" width="29">, I'm Isabel
 
-- 👩🏻‍💻 A Computer Science student at the National University of Singapore (NUS)
+- 👩🏻‍💻 A Year 3 (penultimate) Computer Science student at the National University of Singapore (NUS)
 - ✨ Interests in _**Database Systems**_ and _**Front-End Development**_
-- 🧭 Currently taking a Front End Development Course offered by Meta
 
 ---
 
@@ -17,14 +16,14 @@
  <h2 align="center">Languages & Frameworks</h2>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,c,css,python,postgres" />
+    <img src="https://skillicons.dev/icons?i=java,html,c,css,python,postgres,javascript,typescript" />
   </a>
 </p>
 
 <h2 align="center">Technologies</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,aws,gcp,idea,vscode,raspberrypi,figma&perline=7" />
+    <img src="https://skillicons.dev/icons?i=github,aws,gcp,idea,vscode,figma,mongodb,mysql,gradle,materialui,nodejs,postman,pytorch,unity,raspberrypi" />
   </a>
 </p>
 
