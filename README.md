@@ -10,7 +10,6 @@
 ---
 
 - 🧶 A programmer in the day, a crocheter/embroiderer at night
-- 🍒 Owner of BerryLovelyMade, a small business offering handmade goods
 
 ---
 
@@ -34,9 +33,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.instagram.com/isxbeao">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://www.instagram.com/berrylovelymade">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
