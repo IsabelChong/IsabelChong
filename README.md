@@ -3,7 +3,6 @@
 
 ## Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="45" height="45" /> I'm Isabel
 
-- 👩🏻‍💻 A Year 4 Computer Science student at the National University of Singapore (NUS)
 - ✨ Interests in _**Database Systems**_ and _**Software Engineering**_
 - 🧸 I would love to connect with you to get to know more about _**Frontend Technologies**_  and _**UI/UX**_
 
